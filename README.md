@@ -18,6 +18,10 @@ Team:
 * [Daren Palmer](https://colleserre.github.io) - Head of project & backend
 * [Adrien Dumont](https://neurones.dev) - User counting and website styling
 
+# Contributing
+
+This repository is still in development and we would love some help and improvement suggestions. Just open an issue and we'll discuss it!
+
 Find more information in our Instagram Account: [great___tech](https://www.instagram.com/great___tech/).
 
 ![Instagram Account Nametag](./img/readme_img/nametag.png)
